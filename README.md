@@ -25,7 +25,7 @@ https://mergee-stg.herokuapp.com/reviewers/sign_in
 
 ## スケジュール
 
-12月
+2018年12月
 * 規約の作成
 * 本番環境のセットアップ
 
