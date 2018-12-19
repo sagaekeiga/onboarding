@@ -28,5 +28,6 @@ https://mergee-stg.herokuapp.com/reviewers/sign_in
 12月
 * 規約の作成
 * 本番環境のセットアップ
+
 2019年1月
 * コードレビュー開始
