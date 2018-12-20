@@ -9,9 +9,11 @@ Resource株式会社といいます。
 アメリカの_pullrequestという企業のサービスを参考にしています。
 
 * _pullrequest
+
 https://www.pullrequest.com/
 
 * tech crunch
+
 https://jp.techcrunch.com/2018/04/14/2018-04-13-pullrequest-pulls-in-8m-series-just-months-after-scoring-seed-round/
 
 ## サービス利用について
