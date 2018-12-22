@@ -20,7 +20,7 @@ https://jp.techcrunch.com/2018/04/14/2018-04-13-pullrequest-pulls-in-8m-series-j
 レビュワー（個人）がサービスフローです。
 Githubではなくサービス内でコードレビューをしていただきます。
 ![image](https://i.imgur.com/ZJOMxnG.png)
-https://mergee-stg.herokuapp.com/reviewers/sign_in
+https://app.mergee.co.jp
 
 ## 報酬に関して
 * 8000円/時間
